@@ -2,7 +2,7 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mosip_commons&metric=alert_status)](https://sonarcloud.io/dashboard?branch=release-1.2.0.1&id=mosip_commons)
 
 
-# Commons
+## Commons
 
 ## Overview
 As the name suggests, Commons refers to all the common services (also called "kernel") that are used by other modules of MOSIP. The Kernel services are listed below:
